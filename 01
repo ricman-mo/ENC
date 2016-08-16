@@ -1,5 +1,38 @@
-refactoring  [rɪ'fæktərɪŋ] 
+1.refactoring  [rɪ'fæktərɪŋ] 
 n.重构
+refactor
 
-Refactoring is helping to reorganize code, re - clearly reflected structure and further improve the design. 
-Refactoring则帮助重新组织代码, 重新清晰的体现结构和进一步改进设计.
+Refactoring is helping to reorganize code, re - clearly reflected structure and further improve the design
+Refactoring则帮助重新组织代码, 重新清晰的体现结构和进一步改进设计
+
+Do refactor. I cannot stress the value of this enough
+当更多对象被加入系统时进行设计
+
+2.middleware [ˈmɪdlweə(r)]
+n.中间设备，中间件
+
+The comprehensive use of middleware has enhanced the distributed application systems development.
+中间件技术的广泛运用使得分布式应用系统开发得到进一步发展.
+
+3.lifetime [ˈlaɪftaɪm] 
+生命周期
+
+In this post, I address some other features common to advanced Inversion of Control containers, namely lazy-loading, lifetime management.
+在这文章中，我解释一些其它特性的功能，控制反转容器，延迟加载，生命周期管理，延后创建。
+
+4.instantiation  [ɪnstænʃɪ'eɪʃən] 
+实例化，例示
+
+An object is instantiation of a class
+对象是类的实列.
+
+template instantiation
+
+Unlike function templates, when instantiating a class template, you must explicitly instantiate the class by giving the arguments for the class templates
+
+
+5.hierarchy [ˈhaɪərɑ:ki]
+
+Object Hierarchy and Inheritance in JavaScript
+		
+JavaScript中的对象层次结构和继承
